@@ -1,0 +1,1 @@
+python qrcgen.py RESOURCES /
